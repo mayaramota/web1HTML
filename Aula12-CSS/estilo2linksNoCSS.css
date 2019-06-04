@@ -1,0 +1,7 @@
+
+ body {background-color:white;}
+
+ a:link{color:blue;} /*link não visitado */
+ a:visited{color:gray;} /*link visitado */
+ a:hover{color:yellow;} /*ao passar o cursor */
+ a:active{color:red;} /*link ativado */

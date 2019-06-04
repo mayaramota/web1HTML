@@ -1,0 +1,10 @@
+/*comentário em CSS. A linguagem está em CSS */
+body {background-color:#0ac;
+background-image:url('paissagem.jpg');
+}
+
+/*background-repeat:no-repeat;  Usado para não repitir a imagem*/
+h2{color:black;
+font-family:arial;
+text-align:center;	
+}
